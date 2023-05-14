@@ -1,6 +1,6 @@
-| [![David Kariuki](https://img.shields.io/badge/DK-DAVID%20KARIUKI-blue)](#) | [![Followers](https://img.shields.io/github/followers/david-kariuki)](#) | [![Stars](https://img.shields.io/github/stars/david-kariuki?label=Profile%20Stars&logo=Profile%20stars&logoColor=b)](#) | [![wakatime](https://wakatime.com/badge/user/b8ede415-6acf-4bd7-af13-5e3ea5742c8a.svg)](https://wakatime.com/@b8ede415-6acf-4bd7-af13-5e3ea5742c8a) |
+| [![David Kariuki](https://img.shields.io/badge/DK-DAVID%20KARIUKI-blue)](#) | [![Followers](https://img.shields.io/github/followers/DkariukiM)](#) | [![Stars](https://img.shields.io/github/stars/DkariukiM?label=Profile%20Stars&logo=Profile%20stars&logoColor=b)](#) | [![wakatime](https://wakatime.com/badge/user/b8ede415-6acf-4bd7-af13-5e3ea5742c8a.svg)](https://wakatime.com/@b8ede415-6acf-4bd7-af13-5e3ea5742c8a) |
 --| --| --| --|
-<!--[![Profile Views](https://komarev.com/ghpvc/?username=david-kariuki&color=red)](#) -->
+<!--[![Profile Views](https://komarev.com/ghpvc/?username=DkariukiM&color=red)](#) -->
 
 ### Oh Hi there, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 I am DK, a Software Engineer. I love open source.
@@ -12,7 +12,7 @@ I am DK, a Software Engineer. I love open source.
 <br><br> 2.  🧑‍💼 **DEVELOPMENT STACK**<br>
 
       i. Mobile application development: - Android - Java, Kotlin, Apache Cordova.
-     ii. Web Development: - HTML CSS, Markdown, JavaScript, JQuery, ThymeLeaf.
+     ii. Web Development: - HTML CSS, Markdown, JavaScript, JQuery, ThymeLeaf, Laravel, CodeIgnitor.
      ii. Backend Development: - SpringBoot, PHP.
     iii. Shell Scripting: - Bash.
      iv. Databases: - MySQL, Postgres.
@@ -91,13 +91,13 @@ I am DK, a Software Engineer. I love open source.
 <br>
 
 <!--
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=david-kariuki&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=david-kariuki&langs_count=5&theme=tokyonight)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=DkariukiM&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DkariukiM&langs_count=5&theme=tokyonight)]()
 -->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=david-kariuki&theme=light&hide_border=true&include_all_commits=true&count_private=true)
-![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=david-kariuki&theme=light&hide_border=true&fire=red&sideNums=red)<br/>
-![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=david-kariuki&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=15&include_private=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=DkariukiM&theme=light&hide_border=true&include_all_commits=true&count_private=true)
+![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=DkariukiM&theme=light&hide_border=true&fire=red&sideNums=red)<br/>
+![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DkariukiM&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=15&include_private=true)
 
 <br>
 
