@@ -2,6 +2,7 @@
 --| --| --| --|
 <!--[![Profile Views](https://komarev.com/ghpvc/?username=DkariukiM&color=red)](#) -->
 
+
 ### Oh Hi there, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 I am DK, a Software Engineer. I love open source.
 
@@ -18,6 +19,7 @@ I am DK, a Software Engineer. I love open source.
      iv. Databases: - MySQL, Postgres.
       v. UX/UI Design: - Adobe XD, Figma.
      vi. Virtualization: - VMWARE.
+     vii. game development - unity, UnrealEngine, C#,C++.
      
 
 <br><br>3.  ✨ **OPEN SOURCE**<br>
@@ -70,12 +72,12 @@ I am DK, a Software Engineer. I love open source.
 
 <br><br>9. #️⃣ **REACH ME**<br>
 &emsp;&emsp;&emsp;
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dkaris.k@gmail.com) &emsp;[![LinkedIn - David kariuki](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidkariuki)&emsp;
-[![Twitter - @davidkariuki_](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/davidkariuki_)&emsp;[![Instagram - @davi_kariuki](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white )](https://www.instagram.com/david_kariuki)&emsp;[![Facebook - David Kariuki](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/dk.davidkariuki)&emsp;
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mungai.developer@gmail.com) &emsp;[![LinkedIn - David kariuki](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-kariuki)&emsp;
+[![Twitter - @davidkariuki_](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/davidkariuki_)&emsp;[![Instagram - @davi_kariuki](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white )](https://www.instagram.com/mungai_dev)&emsp;
 
 <br><br>10. #️ 📖 **Articles and Posts**<br>
 &emsp;&emsp;&emsp;
-[![Medium Articles](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@davidkariuki) &emsp;[![Quoras Contribution](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/David-Kariuki-7/) &emsp;[![Dev.to Blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/david_kariuki)
+[![Medium Articles](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mungaidavid) &emsp;[![Quoras Contribution](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/David-Kariuki-7/) &emsp;[![Dev.to Blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/mungaidavid)
 
 
 <br><br>11.  🌐 **STACK EXCHANGE PROFILES** (Achievements and Contributions)<br><br>
@@ -114,7 +116,7 @@ I am DK, a Software Engineer. I love open source.
 
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=david-kariuki&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=DkariukiM&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
 
@@ -129,7 +131,7 @@ I am DK, a Software Engineer. I love open source.
 
 Please click the red button below to nominate me for the Github Stars programme. <br>
 
-<a href='https://stars.github.com/nominate/' target="_blank"><img alt='github' src='https://img.shields.io/badge/Nominate_me --> @david--kariuki-100000?style=for-the-badge&logo=github&logoColor=000000&labelColor=ffffff&color=E03A3A'/></a>
+<a href='https://stars.github.com/nominate/' target="_blank"><img alt='github' src='https://img.shields.io/badge/Nominate_me --> @DkariukiM?style=for-the-badge&logo=github&logoColor=000000&labelColor=ffffff&color=E03A3A'/></a>
 
 
 <br>
