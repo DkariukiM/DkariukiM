@@ -57,8 +57,6 @@ I am DK, a Software Engineer. I love open source.
     - Machine learning & Artificial Intelligence.
     - IOT
 
-<br><br>7.  🕰️ **PART-TIME WORK**<br>
-&emsp;&emsp;&emsp;I am a freelance outdoor and event photographer. My brand name is **PhotoVendor**. Reach me in almost all social media platforms ***@photovendor***
 
 
 <br><br>8.  🗣️ **LANGUAGES**<br>
